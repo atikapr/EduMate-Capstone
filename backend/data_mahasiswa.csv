@@ -1,0 +1,301 @@
+id_mahasiswa,nama,jurusan,angkatan,ipk_terakhir,device_preference,learning_style,goal,waktu_belajar_per_hari,ketersediaan_belajar
+MHS001,Penny Leblanc,Informatika,2023,3.2,Laptop,Visual,Pahami Materi,2,Malam
+MHS002,Richard Marshall,Informatika,2019,2.94,HP,Visual,Pahami Materi,4,Pagi
+MHS003,Heather Riley,Teknik Elektro,2023,3.26,Laptop,Visual,Lulus Cepat,1,Malam
+MHS004,Victor Levine,Sistem Informasi,2019,3.61,HP,Auditory,Lulus Cepat,1,Siang
+MHS005,Adrian Haas,Sistem Informasi,2022,2.91,HP,Auditory,Raih IPK Tinggi,1,Pagi
+MHS006,Donna Reeves,Sistem Informasi,2023,2.91,HP,Kinesthetic,Raih IPK Tinggi,1,Pagi
+MHS007,Melvin Griffin,Informatika,2023,3.63,Laptop,Kinesthetic,Pahami Materi,4,Pagi
+MHS008,Noah Cohen,Akuntansi,2023,3.31,HP,Auditory,Raih IPK Tinggi,1,Malam
+MHS009,Crystal Miranda,Informatika,2021,2.81,HP,Auditory,Pahami Materi,3,Malam
+MHS010,Scott Weber,Akuntansi,2021,3.22,Tablet,Visual,Raih IPK Tinggi,2,Pagi
+MHS011,Chad Gomez,Manajemen,2020,2.81,Tablet,Visual,Pahami Materi,5,Malam
+MHS012,Ricky Fowler,Informatika,2021,2.81,HP,Auditory,Raih IPK Tinggi,1,Siang
+MHS013,Brendan Deleon,Informatika,2020,3.1,Tablet,Kinesthetic,Raih IPK Tinggi,5,Pagi
+MHS014,Wendy Floyd,Informatika,2021,2.23,Laptop,Auditory,Raih IPK Tinggi,5,Siang
+MHS015,Robert Lopez,Sistem Informasi,2022,2.31,HP,Kinesthetic,Lulus Cepat,5,Siang
+MHS016,Gina Smith,Sistem Informasi,2020,2.78,Laptop,Auditory,Raih IPK Tinggi,3,Malam
+MHS017,Alice Smith,Akuntansi,2021,2.59,Tablet,Visual,Raih IPK Tinggi,1,Malam
+MHS018,Mr. Mark White,Akuntansi,2022,3.13,Tablet,Kinesthetic,Lulus Cepat,4,Pagi
+MHS019,Hannah Hill,Informatika,2021,2.64,Laptop,Visual,Lulus Cepat,3,Siang
+MHS020,Ana Jackson,Akuntansi,2019,2.44,HP,Auditory,Raih IPK Tinggi,4,Malam
+MHS021,Madison Fletcher,Sistem Informasi,2019,3.59,Tablet,Kinesthetic,Pahami Materi,1,Siang
+MHS022,James Morris,Akuntansi,2022,2.91,Tablet,Kinesthetic,Raih IPK Tinggi,3,Malam
+MHS023,Scott Patel,Manajemen,2023,3.03,Tablet,Kinesthetic,Pahami Materi,5,Siang
+MHS024,Heidi Nelson,Sistem Informasi,2023,2.43,Laptop,Visual,Raih IPK Tinggi,3,Pagi
+MHS025,Kerry Jones,Manajemen,2019,2.78,Laptop,Auditory,Pahami Materi,3,Malam
+MHS026,Anthony Dennis,Akuntansi,2019,3.04,Tablet,Visual,Raih IPK Tinggi,1,Pagi
+MHS027,Megan Green,Teknik Elektro,2023,2.54,HP,Kinesthetic,Lulus Cepat,5,Siang
+MHS028,Sara Griffin,Informatika,2020,3.15,Laptop,Visual,Pahami Materi,5,Siang
+MHS029,Anne Robinson,Sistem Informasi,2023,2.76,HP,Kinesthetic,Raih IPK Tinggi,2,Pagi
+MHS030,Ricky Tate,Manajemen,2021,2.88,Laptop,Visual,Raih IPK Tinggi,2,Siang
+MHS031,Steven Cooke,Teknik Elektro,2020,2.76,Laptop,Auditory,Lulus Cepat,4,Malam
+MHS032,James Cooper,Teknik Elektro,2021,3.74,HP,Visual,Pahami Materi,2,Malam
+MHS033,Vincent Robinson,Sistem Informasi,2019,2.99,HP,Visual,Pahami Materi,1,Siang
+MHS034,David Martin,Sistem Informasi,2020,2.58,HP,Visual,Pahami Materi,3,Siang
+MHS035,Joshua Davidson,Teknik Elektro,2021,3.33,Laptop,Visual,Lulus Cepat,5,Siang
+MHS036,Kenneth Lane,Informatika,2021,2.51,HP,Auditory,Pahami Materi,3,Siang
+MHS037,Robert Cole,Informatika,2020,3.08,HP,Kinesthetic,Pahami Materi,1,Malam
+MHS038,Stephanie Scott,Manajemen,2022,2.22,HP,Kinesthetic,Raih IPK Tinggi,3,Malam
+MHS039,Jill Serrano,Informatika,2023,2.47,HP,Kinesthetic,Raih IPK Tinggi,5,Siang
+MHS040,Craig English,Teknik Elektro,2021,3.08,HP,Auditory,Lulus Cepat,2,Pagi
+MHS041,Sierra Underwood,Teknik Elektro,2023,3.3,HP,Auditory,Pahami Materi,4,Pagi
+MHS042,Kevin Davis,Akuntansi,2023,3.07,HP,Visual,Raih IPK Tinggi,5,Malam
+MHS043,Caitlyn Ruiz,Teknik Elektro,2019,2.95,Laptop,Auditory,Lulus Cepat,5,Pagi
+MHS044,Melissa Navarro,Informatika,2023,2.88,HP,Kinesthetic,Pahami Materi,5,Siang
+MHS045,Shannon Price,Manajemen,2021,2.41,Laptop,Auditory,Lulus Cepat,5,Pagi
+MHS046,Kathleen Mclaughlin,Akuntansi,2019,2.71,Tablet,Kinesthetic,Pahami Materi,1,Malam
+MHS047,Rebecca Roberts,Informatika,2020,2.82,Tablet,Auditory,Raih IPK Tinggi,5,Siang
+MHS048,Katrina Brown,Manajemen,2021,3.42,Laptop,Auditory,Pahami Materi,3,Siang
+MHS049,Carl Stewart,Informatika,2019,3.14,HP,Kinesthetic,Pahami Materi,1,Malam
+MHS050,Daniel Williams,Akuntansi,2019,2.29,Laptop,Kinesthetic,Pahami Materi,2,Pagi
+MHS051,Dillon Zavala,Teknik Elektro,2023,3.13,Tablet,Auditory,Pahami Materi,3,Malam
+MHS052,Jessica Howe,Akuntansi,2020,2.85,Laptop,Auditory,Lulus Cepat,3,Malam
+MHS053,Brandon Welch,Teknik Elektro,2021,2.73,Tablet,Visual,Pahami Materi,3,Pagi
+MHS054,Michelle Walker,Akuntansi,2021,3.24,Laptop,Kinesthetic,Lulus Cepat,3,Siang
+MHS055,Dana Ramirez,Sistem Informasi,2023,3.41,Laptop,Visual,Pahami Materi,1,Pagi
+MHS056,Linda Moran,Informatika,2020,3.37,Laptop,Auditory,Pahami Materi,2,Pagi
+MHS057,Ryan Alexander,Informatika,2021,2.66,Laptop,Kinesthetic,Lulus Cepat,2,Siang
+MHS058,David James,Sistem Informasi,2020,2.88,Laptop,Auditory,Raih IPK Tinggi,5,Siang
+MHS059,Jeffrey Brown,Teknik Elektro,2021,3.13,Tablet,Kinesthetic,Raih IPK Tinggi,4,Malam
+MHS060,Leslie Wilson,Informatika,2023,3.39,Laptop,Auditory,Lulus Cepat,1,Pagi
+MHS061,Andres Jones,Sistem Informasi,2022,2.81,Laptop,Visual,Pahami Materi,2,Siang
+MHS062,Michael Sims,Informatika,2021,2.93,Laptop,Visual,Raih IPK Tinggi,1,Pagi
+MHS063,Christine Bailey,Manajemen,2019,2.56,HP,Visual,Pahami Materi,1,Pagi
+MHS064,Colleen Johnson,Teknik Elektro,2019,2.52,Tablet,Kinesthetic,Lulus Cepat,5,Siang
+MHS065,Mary Ward,Manajemen,2022,3.33,Laptop,Kinesthetic,Lulus Cepat,2,Siang
+MHS066,Tony Martinez,Teknik Elektro,2021,3.54,Tablet,Kinesthetic,Raih IPK Tinggi,4,Pagi
+MHS067,Diane Farley,Sistem Informasi,2019,2.97,Laptop,Visual,Raih IPK Tinggi,4,Siang
+MHS068,Mrs. Denise Walters,Teknik Elektro,2019,3.4,HP,Kinesthetic,Pahami Materi,4,Pagi
+MHS069,Michael Robinson,Teknik Elektro,2021,3.14,Tablet,Auditory,Raih IPK Tinggi,3,Siang
+MHS070,Kevin Lyons,Sistem Informasi,2020,2.74,HP,Kinesthetic,Lulus Cepat,2,Malam
+MHS071,Gail Johnson,Teknik Elektro,2021,3.14,HP,Visual,Lulus Cepat,3,Siang
+MHS072,Ashley Lang,Informatika,2020,3.62,Laptop,Visual,Lulus Cepat,3,Pagi
+MHS073,Brett Hays,Akuntansi,2022,2.99,Tablet,Auditory,Pahami Materi,3,Siang
+MHS074,Andrea Mccullough,Sistem Informasi,2023,3.63,Tablet,Kinesthetic,Raih IPK Tinggi,5,Pagi
+MHS075,Danielle Gonzales,Akuntansi,2022,1.95,Tablet,Kinesthetic,Pahami Materi,5,Siang
+MHS076,Michael Nelson,Sistem Informasi,2023,3.33,Tablet,Auditory,Pahami Materi,1,Pagi
+MHS077,Michael Foley,Sistem Informasi,2019,3.03,Laptop,Auditory,Raih IPK Tinggi,1,Pagi
+MHS078,Shannon Zavala,Manajemen,2019,2.88,Laptop,Visual,Lulus Cepat,2,Siang
+MHS079,Deborah Hamilton,Manajemen,2019,3.04,HP,Kinesthetic,Raih IPK Tinggi,2,Pagi
+MHS080,Tanya Rodriguez,Teknik Elektro,2020,2.2,Laptop,Auditory,Raih IPK Tinggi,5,Malam
+MHS081,Alicia Cohen,Akuntansi,2023,2.91,Tablet,Kinesthetic,Raih IPK Tinggi,1,Malam
+MHS082,Joshua Bradley,Sistem Informasi,2019,3.14,Laptop,Auditory,Pahami Materi,1,Siang
+MHS083,Robert Calhoun,Teknik Elektro,2021,3.59,HP,Visual,Raih IPK Tinggi,3,Pagi
+MHS084,Alexandra Burke,Informatika,2023,2.79,Tablet,Auditory,Lulus Cepat,4,Pagi
+MHS085,Kelly Thomas,Sistem Informasi,2023,2.68,Tablet,Auditory,Raih IPK Tinggi,4,Pagi
+MHS086,Jeremiah Pitts,Informatika,2020,2.8,HP,Auditory,Lulus Cepat,4,Siang
+MHS087,Angela Whitehead,Teknik Elektro,2022,3.37,HP,Auditory,Lulus Cepat,5,Siang
+MHS088,Matthew Dixon,Manajemen,2020,3.13,Tablet,Auditory,Lulus Cepat,4,Malam
+MHS089,Laura Rodriguez,Teknik Elektro,2019,2.79,Laptop,Kinesthetic,Pahami Materi,4,Pagi
+MHS090,James White,Informatika,2021,3.21,Laptop,Visual,Pahami Materi,3,Malam
+MHS091,Christopher Hernandez,Sistem Informasi,2021,3.04,Tablet,Visual,Pahami Materi,2,Siang
+MHS092,Anita Cameron,Akuntansi,2019,3.39,Tablet,Auditory,Raih IPK Tinggi,5,Siang
+MHS093,Justin Sweeney,Teknik Elektro,2021,2.72,Tablet,Auditory,Pahami Materi,1,Malam
+MHS094,Donna Rios,Sistem Informasi,2020,2.87,Laptop,Kinesthetic,Raih IPK Tinggi,3,Pagi
+MHS095,Christopher Fisher,Manajemen,2020,2.84,Laptop,Auditory,Lulus Cepat,4,Pagi
+MHS096,Kathy Saunders,Manajemen,2019,2.41,Tablet,Auditory,Raih IPK Tinggi,1,Pagi
+MHS097,Nicole Bryant,Manajemen,2021,3.12,HP,Kinesthetic,Lulus Cepat,3,Siang
+MHS098,Tammy Mcdaniel,Sistem Informasi,2023,3.1,Tablet,Auditory,Raih IPK Tinggi,5,Pagi
+MHS099,John Diaz,Teknik Elektro,2022,3.0,Tablet,Kinesthetic,Pahami Materi,4,Pagi
+MHS100,Ernest Phillips,Sistem Informasi,2023,2.91,Laptop,Visual,Lulus Cepat,5,Malam
+MHS101,George Landry,Sistem Informasi,2020,2.43,Tablet,Auditory,Raih IPK Tinggi,3,Malam
+MHS102,Scott Schroeder,Akuntansi,2020,2.83,Laptop,Visual,Raih IPK Tinggi,1,Malam
+MHS103,Brandon Henson,Akuntansi,2020,2.86,HP,Auditory,Pahami Materi,2,Malam
+MHS104,Jacob Hendricks,Teknik Elektro,2020,2.68,Tablet,Auditory,Pahami Materi,4,Siang
+MHS105,Matthew Roberts,Akuntansi,2022,2.94,HP,Auditory,Pahami Materi,5,Pagi
+MHS106,Amanda Acosta,Manajemen,2019,3.16,Tablet,Visual,Raih IPK Tinggi,1,Siang
+MHS107,Barbara Blair,Akuntansi,2020,3.75,HP,Auditory,Pahami Materi,1,Pagi
+MHS108,Brandon Reyes,Manajemen,2021,3.07,Laptop,Kinesthetic,Raih IPK Tinggi,2,Siang
+MHS109,Kristen Montgomery,Teknik Elektro,2022,3.1,Tablet,Visual,Pahami Materi,3,Pagi
+MHS110,Karen Fernandez,Sistem Informasi,2020,2.97,Tablet,Kinesthetic,Raih IPK Tinggi,2,Pagi
+MHS111,Kelly Carter,Sistem Informasi,2021,2.23,HP,Kinesthetic,Lulus Cepat,2,Pagi
+MHS112,Alejandro Estrada,Akuntansi,2020,2.99,Laptop,Auditory,Pahami Materi,3,Siang
+MHS113,Tina Lyons,Manajemen,2019,3.02,HP,Auditory,Lulus Cepat,3,Malam
+MHS114,Alicia Thomas,Informatika,2022,3.99,HP,Visual,Raih IPK Tinggi,3,Malam
+MHS115,John Phillips,Informatika,2019,2.92,Laptop,Visual,Lulus Cepat,1,Siang
+MHS116,Jennifer Flynn,Informatika,2022,3.12,HP,Kinesthetic,Pahami Materi,1,Pagi
+MHS117,Corey Ramsey MD,Sistem Informasi,2020,2.99,HP,Auditory,Pahami Materi,4,Pagi
+MHS118,Renee Turner,Sistem Informasi,2020,2.53,Tablet,Kinesthetic,Raih IPK Tinggi,4,Siang
+MHS119,Derek Hodges,Manajemen,2022,3.46,HP,Auditory,Pahami Materi,2,Malam
+MHS120,Loretta Andrews,Akuntansi,2021,3.3,Tablet,Kinesthetic,Lulus Cepat,2,Malam
+MHS121,Scott Davis,Informatika,2021,3.32,Laptop,Auditory,Pahami Materi,4,Pagi
+MHS122,Tiffany Booker,Manajemen,2020,2.64,HP,Visual,Lulus Cepat,5,Malam
+MHS123,Brian Ayers,Manajemen,2020,3.56,Laptop,Visual,Pahami Materi,2,Malam
+MHS124,Taylor Baker,Akuntansi,2019,2.44,Tablet,Auditory,Raih IPK Tinggi,5,Malam
+MHS125,William Baldwin,Manajemen,2020,3.23,Tablet,Kinesthetic,Pahami Materi,5,Pagi
+MHS126,Sara Perez,Akuntansi,2022,3.88,Tablet,Visual,Raih IPK Tinggi,3,Malam
+MHS127,Jose Stewart,Teknik Elektro,2021,2.6,HP,Auditory,Pahami Materi,1,Pagi
+MHS128,Danielle Horton,Akuntansi,2021,2.77,Tablet,Auditory,Raih IPK Tinggi,4,Siang
+MHS129,James Nelson,Informatika,2019,3.04,Tablet,Kinesthetic,Lulus Cepat,1,Siang
+MHS130,Michael Miller,Informatika,2021,2.8,HP,Auditory,Lulus Cepat,4,Pagi
+MHS131,Miss Ashley Henderson,Akuntansi,2021,2.38,HP,Visual,Lulus Cepat,1,Malam
+MHS132,Sarah Williams,Teknik Elektro,2023,3.03,HP,Visual,Lulus Cepat,4,Siang
+MHS133,Hunter Hogan,Teknik Elektro,2022,2.58,Tablet,Kinesthetic,Raih IPK Tinggi,1,Pagi
+MHS134,Michael Thornton,Informatika,2023,3.19,Tablet,Kinesthetic,Raih IPK Tinggi,3,Malam
+MHS135,George Williams,Teknik Elektro,2021,2.63,HP,Visual,Lulus Cepat,5,Siang
+MHS136,Christine Crawford,Manajemen,2019,3.62,HP,Kinesthetic,Lulus Cepat,4,Pagi
+MHS137,Diane Wilson,Sistem Informasi,2019,2.69,Laptop,Visual,Lulus Cepat,5,Malam
+MHS138,Michele Martinez,Manajemen,2021,2.87,Laptop,Auditory,Pahami Materi,4,Malam
+MHS139,Eileen Miller DVM,Informatika,2020,3.33,HP,Kinesthetic,Lulus Cepat,4,Pagi
+MHS140,Bonnie Christian,Teknik Elektro,2023,2.51,HP,Visual,Raih IPK Tinggi,3,Malam
+MHS141,Steven King,Akuntansi,2021,3.09,Laptop,Kinesthetic,Raih IPK Tinggi,1,Siang
+MHS142,Jessica Anderson,Sistem Informasi,2019,3.52,HP,Auditory,Raih IPK Tinggi,4,Pagi
+MHS143,Kristin Russell,Akuntansi,2019,2.36,Tablet,Visual,Pahami Materi,1,Malam
+MHS144,Jeremy Warner,Informatika,2023,3.07,Tablet,Visual,Pahami Materi,3,Malam
+MHS145,Thomas Lewis,Teknik Elektro,2022,3.1,Tablet,Visual,Pahami Materi,2,Malam
+MHS146,Dana Booker,Akuntansi,2021,3.31,HP,Auditory,Pahami Materi,5,Malam
+MHS147,Sandra Watts,Akuntansi,2021,2.51,HP,Visual,Raih IPK Tinggi,4,Malam
+MHS148,Charles Johnston IV,Sistem Informasi,2022,2.47,Laptop,Kinesthetic,Pahami Materi,3,Pagi
+MHS149,Mary Rodriguez,Sistem Informasi,2023,3.21,HP,Visual,Pahami Materi,1,Siang
+MHS150,Lori Skinner,Teknik Elektro,2023,3.12,HP,Auditory,Pahami Materi,4,Siang
+MHS151,Amanda Maxwell,Sistem Informasi,2019,3.1,Laptop,Kinesthetic,Lulus Cepat,1,Pagi
+MHS152,Joseph Williams,Akuntansi,2022,3.14,HP,Auditory,Raih IPK Tinggi,2,Malam
+MHS153,William Melendez,Akuntansi,2023,2.73,Laptop,Kinesthetic,Pahami Materi,4,Siang
+MHS154,Jennifer Mckinney,Informatika,2020,3.09,HP,Kinesthetic,Lulus Cepat,5,Siang
+MHS155,Chelsea Torres,Akuntansi,2021,3.12,HP,Auditory,Raih IPK Tinggi,4,Siang
+MHS156,Jon Schroeder,Teknik Elektro,2019,2.71,HP,Auditory,Pahami Materi,5,Malam
+MHS157,Olivia Gregory,Manajemen,2022,3.75,HP,Auditory,Raih IPK Tinggi,1,Pagi
+MHS158,Diane Dickerson,Informatika,2019,3.19,Tablet,Auditory,Raih IPK Tinggi,4,Siang
+MHS159,Travis Bailey,Informatika,2023,2.52,Tablet,Visual,Lulus Cepat,3,Pagi
+MHS160,Joshua Lee,Teknik Elektro,2023,3.26,HP,Auditory,Pahami Materi,3,Siang
+MHS161,Kayla Lee,Teknik Elektro,2020,2.61,Tablet,Kinesthetic,Raih IPK Tinggi,2,Pagi
+MHS162,Hannah Moreno,Sistem Informasi,2021,3.31,Laptop,Visual,Lulus Cepat,3,Malam
+MHS163,Jennifer Thompson,Informatika,2022,3.46,Tablet,Auditory,Raih IPK Tinggi,2,Malam
+MHS164,Ronald Chen,Sistem Informasi,2019,2.67,Laptop,Visual,Raih IPK Tinggi,1,Malam
+MHS165,Kaitlyn Conner,Akuntansi,2021,3.39,Laptop,Kinesthetic,Lulus Cepat,5,Pagi
+MHS166,Charles Oneal,Informatika,2023,3.17,Laptop,Kinesthetic,Raih IPK Tinggi,1,Malam
+MHS167,Stuart Vincent,Informatika,2021,3.33,Tablet,Kinesthetic,Lulus Cepat,5,Malam
+MHS168,Matthew Cannon,Manajemen,2019,3.76,HP,Visual,Pahami Materi,5,Siang
+MHS169,Jessica Moore,Informatika,2021,2.9,HP,Visual,Raih IPK Tinggi,2,Pagi
+MHS170,Melissa Cole,Akuntansi,2023,2.7,Tablet,Auditory,Pahami Materi,3,Pagi
+MHS171,Kevin Hernandez,Sistem Informasi,2021,2.64,Laptop,Auditory,Pahami Materi,3,Siang
+MHS172,Scott Watson,Sistem Informasi,2022,2.67,Tablet,Auditory,Raih IPK Tinggi,2,Malam
+MHS173,Kathleen Rodriguez,Manajemen,2021,2.97,HP,Kinesthetic,Lulus Cepat,2,Siang
+MHS174,Jacob King,Akuntansi,2022,3.14,Tablet,Auditory,Raih IPK Tinggi,1,Malam
+MHS175,Rodney Shelton,Sistem Informasi,2021,3.11,Tablet,Visual,Raih IPK Tinggi,2,Pagi
+MHS176,Heather Smith,Teknik Elektro,2023,3.33,HP,Auditory,Lulus Cepat,3,Malam
+MHS177,Kristin Cervantes,Akuntansi,2020,3.01,HP,Kinesthetic,Lulus Cepat,2,Siang
+MHS178,Elizabeth Guerra,Akuntansi,2020,3.58,Laptop,Auditory,Raih IPK Tinggi,2,Malam
+MHS179,Ashley Walker,Manajemen,2022,2.89,Laptop,Kinesthetic,Lulus Cepat,5,Siang
+MHS180,Gloria Jennings,Sistem Informasi,2022,4.09,HP,Kinesthetic,Pahami Materi,2,Malam
+MHS181,Eileen Clark,Akuntansi,2020,3.25,Laptop,Kinesthetic,Lulus Cepat,1,Pagi
+MHS182,Catherine Price,Sistem Informasi,2023,2.66,HP,Auditory,Pahami Materi,2,Pagi
+MHS183,Cassandra Cannon,Teknik Elektro,2023,2.57,Tablet,Visual,Pahami Materi,4,Pagi
+MHS184,Christopher Johnston,Manajemen,2021,3.19,Laptop,Auditory,Pahami Materi,4,Malam
+MHS185,Mrs. Laura Larson MD,Teknik Elektro,2022,2.91,HP,Kinesthetic,Lulus Cepat,5,Siang
+MHS186,Lynn Mason,Manajemen,2023,3.29,Tablet,Auditory,Lulus Cepat,5,Pagi
+MHS187,Maria Warren,Akuntansi,2019,3.19,Tablet,Auditory,Raih IPK Tinggi,4,Siang
+MHS188,Grace Brennan,Manajemen,2021,2.97,HP,Auditory,Lulus Cepat,5,Pagi
+MHS189,Ms. Tiffany Williams MD,Informatika,2021,2.66,HP,Kinesthetic,Lulus Cepat,5,Pagi
+MHS190,Michael Gomez,Sistem Informasi,2020,2.39,Tablet,Kinesthetic,Pahami Materi,3,Pagi
+MHS191,Ms. Karla Thompson,Sistem Informasi,2022,2.82,Tablet,Auditory,Lulus Cepat,3,Pagi
+MHS192,Gavin Delacruz,Informatika,2023,3.34,HP,Auditory,Lulus Cepat,2,Siang
+MHS193,Emily Meadows,Teknik Elektro,2023,3.09,HP,Auditory,Pahami Materi,4,Siang
+MHS194,Robert Harris,Informatika,2021,2.5,Tablet,Visual,Lulus Cepat,1,Malam
+MHS195,Mckenzie Richardson,Akuntansi,2022,3.07,Tablet,Kinesthetic,Pahami Materi,4,Siang
+MHS196,Richard Castro,Akuntansi,2022,3.15,HP,Visual,Lulus Cepat,4,Malam
+MHS197,John Ingram,Sistem Informasi,2022,2.65,HP,Kinesthetic,Lulus Cepat,3,Siang
+MHS198,Raymond Lane,Akuntansi,2020,3.06,Tablet,Auditory,Raih IPK Tinggi,3,Siang
+MHS199,Ashley Keller,Sistem Informasi,2023,3.02,HP,Visual,Lulus Cepat,5,Pagi
+MHS200,Lisa Perry,Informatika,2022,2.54,HP,Auditory,Pahami Materi,1,Malam
+MHS201,John King,Informatika,2020,3.14,HP,Visual,Lulus Cepat,3,Pagi
+MHS202,Melissa Poole,Informatika,2019,3.22,HP,Auditory,Raih IPK Tinggi,5,Siang
+MHS203,Dr. Laurie Harmon,Sistem Informasi,2021,3.43,Laptop,Kinesthetic,Lulus Cepat,1,Siang
+MHS204,Shane Oconnor,Informatika,2023,3.42,Laptop,Auditory,Lulus Cepat,3,Pagi
+MHS205,Christopher Williams,Informatika,2023,2.45,Tablet,Kinesthetic,Pahami Materi,4,Malam
+MHS206,Monica Pierce,Teknik Elektro,2021,2.62,Laptop,Auditory,Raih IPK Tinggi,4,Siang
+MHS207,Timothy Garcia,Informatika,2019,3.21,HP,Auditory,Lulus Cepat,1,Siang
+MHS208,Joseph Grant,Akuntansi,2020,3.21,Laptop,Kinesthetic,Lulus Cepat,1,Pagi
+MHS209,Anthony Harper,Sistem Informasi,2021,3.21,Tablet,Kinesthetic,Pahami Materi,3,Siang
+MHS210,Anthony Hart,Teknik Elektro,2020,4.54,Tablet,Visual,Lulus Cepat,3,Siang
+MHS211,Cindy Diaz,Manajemen,2020,3.23,Tablet,Auditory,Lulus Cepat,1,Siang
+MHS212,Julie Sims,Sistem Informasi,2020,3.45,Laptop,Visual,Lulus Cepat,1,Malam
+MHS213,Brandon Diaz,Akuntansi,2019,3.38,Laptop,Visual,Raih IPK Tinggi,5,Siang
+MHS214,James Hooper,Sistem Informasi,2019,3.26,Laptop,Kinesthetic,Lulus Cepat,5,Siang
+MHS215,Brandon Lawson,Akuntansi,2020,2.87,Tablet,Kinesthetic,Pahami Materi,5,Siang
+MHS216,Timothy Wood,Akuntansi,2022,3.3,HP,Auditory,Raih IPK Tinggi,4,Pagi
+MHS217,Lori Ochoa,Manajemen,2023,2.69,HP,Visual,Lulus Cepat,4,Siang
+MHS218,David Mclean,Sistem Informasi,2019,2.91,Tablet,Auditory,Lulus Cepat,5,Malam
+MHS219,Mario Hickman DDS,Manajemen,2022,2.81,Tablet,Visual,Raih IPK Tinggi,5,Siang
+MHS220,James Martin,Manajemen,2022,3.03,Tablet,Kinesthetic,Lulus Cepat,1,Siang
+MHS221,Angel Smith,Sistem Informasi,2023,3.93,Tablet,Auditory,Lulus Cepat,4,Malam
+MHS222,Alexis Stevens,Informatika,2020,2.25,HP,Visual,Pahami Materi,5,Siang
+MHS223,Juan Coleman,Informatika,2022,3.27,Laptop,Kinesthetic,Raih IPK Tinggi,2,Pagi
+MHS224,Dr. Barbara Diaz,Manajemen,2022,2.35,Laptop,Visual,Pahami Materi,3,Malam
+MHS225,Scott Alexander,Teknik Elektro,2022,2.81,HP,Auditory,Lulus Cepat,5,Siang
+MHS226,Kevin Anderson,Manajemen,2020,3.44,Laptop,Kinesthetic,Pahami Materi,4,Pagi
+MHS227,Mikayla Richardson,Manajemen,2020,3.03,HP,Visual,Lulus Cepat,5,Siang
+MHS228,Rachel Scott MD,Manajemen,2019,2.57,Laptop,Visual,Raih IPK Tinggi,2,Malam
+MHS229,Amanda Craig,Informatika,2019,2.71,HP,Auditory,Raih IPK Tinggi,1,Pagi
+MHS230,Louis Jensen,Informatika,2022,3.27,Laptop,Auditory,Raih IPK Tinggi,4,Malam
+MHS231,Nicholas Scott,Informatika,2020,2.71,Tablet,Auditory,Pahami Materi,1,Siang
+MHS232,Jacqueline Garcia,Manajemen,2020,3.09,Tablet,Kinesthetic,Pahami Materi,3,Siang
+MHS233,Stephanie Johnston,Teknik Elektro,2023,3.02,Laptop,Kinesthetic,Lulus Cepat,1,Pagi
+MHS234,Patrick Garcia,Informatika,2022,2.74,HP,Auditory,Raih IPK Tinggi,5,Pagi
+MHS235,Lisa Berry,Sistem Informasi,2019,3.86,Laptop,Kinesthetic,Pahami Materi,2,Siang
+MHS236,Kayla Green,Sistem Informasi,2023,3.25,Laptop,Visual,Lulus Cepat,1,Malam
+MHS237,Timothy Taylor,Sistem Informasi,2020,2.19,Tablet,Auditory,Pahami Materi,2,Siang
+MHS238,Chelsea Carter,Akuntansi,2019,3.07,HP,Kinesthetic,Lulus Cepat,4,Siang
+MHS239,Richard Leonard,Manajemen,2022,2.74,Tablet,Kinesthetic,Pahami Materi,4,Siang
+MHS240,Charles Miller,Sistem Informasi,2020,3.34,Laptop,Auditory,Pahami Materi,5,Malam
+MHS241,Alexander Hughes,Manajemen,2022,2.68,Tablet,Auditory,Pahami Materi,5,Malam
+MHS242,Madison Wallace,Sistem Informasi,2023,2.95,HP,Kinesthetic,Raih IPK Tinggi,5,Siang
+MHS243,Richard Lopez,Teknik Elektro,2023,3.2,Laptop,Kinesthetic,Raih IPK Tinggi,2,Pagi
+MHS244,Nathan Burke,Manajemen,2023,3.35,Laptop,Auditory,Pahami Materi,3,Malam
+MHS245,William Harrison,Sistem Informasi,2021,2.52,Tablet,Kinesthetic,Lulus Cepat,3,Siang
+MHS246,Michael Curtis,Informatika,2022,2.87,HP,Visual,Lulus Cepat,3,Siang
+MHS247,Robert Young DVM,Manajemen,2023,2.81,HP,Kinesthetic,Raih IPK Tinggi,4,Siang
+MHS248,Donald Mcintosh,Akuntansi,2023,2.74,HP,Visual,Raih IPK Tinggi,4,Pagi
+MHS249,Michael Perez,Informatika,2022,3.71,HP,Visual,Raih IPK Tinggi,3,Malam
+MHS250,Misty Olson,Informatika,2023,3.16,HP,Kinesthetic,Pahami Materi,5,Siang
+MHS251,Kyle Brown,Akuntansi,2022,2.5,Laptop,Kinesthetic,Lulus Cepat,1,Malam
+MHS252,Jamie Castro,Informatika,2020,3.37,Laptop,Auditory,Raih IPK Tinggi,3,Siang
+MHS253,Michael Ford,Informatika,2022,3.85,HP,Visual,Pahami Materi,1,Siang
+MHS254,Eric Lee,Sistem Informasi,2022,3.41,HP,Kinesthetic,Raih IPK Tinggi,3,Malam
+MHS255,Megan Schmidt,Sistem Informasi,2021,2.39,Laptop,Visual,Lulus Cepat,1,Pagi
+MHS256,Dr. Wendy Anderson,Manajemen,2020,2.81,Laptop,Auditory,Lulus Cepat,5,Pagi
+MHS257,Jennifer Henderson,Manajemen,2021,3.51,HP,Visual,Raih IPK Tinggi,4,Malam
+MHS258,Rebecca Hickman,Manajemen,2023,2.72,HP,Kinesthetic,Pahami Materi,3,Malam
+MHS259,Matthew Ward,Sistem Informasi,2022,3.18,Laptop,Kinesthetic,Lulus Cepat,3,Siang
+MHS260,Corey Anderson,Manajemen,2020,3.31,Tablet,Visual,Lulus Cepat,5,Siang
+MHS261,Amanda Morgan,Informatika,2021,2.63,Tablet,Auditory,Lulus Cepat,2,Malam
+MHS262,Billy Pineda,Sistem Informasi,2022,2.98,Tablet,Visual,Raih IPK Tinggi,3,Malam
+MHS263,Ashley Baldwin,Manajemen,2019,1.7,Laptop,Kinesthetic,Pahami Materi,1,Malam
+MHS264,Jennifer Martinez,Informatika,2021,2.59,Laptop,Auditory,Pahami Materi,5,Pagi
+MHS265,Randy Hayes,Manajemen,2020,2.9,Laptop,Visual,Pahami Materi,2,Pagi
+MHS266,Brent Allen,Teknik Elektro,2021,2.5,Tablet,Visual,Pahami Materi,3,Pagi
+MHS267,Jill Ward,Manajemen,2021,3.65,HP,Auditory,Pahami Materi,3,Malam
+MHS268,Jon King,Teknik Elektro,2021,2.43,Laptop,Visual,Raih IPK Tinggi,4,Malam
+MHS269,Mary Vaughn,Manajemen,2023,2.82,Laptop,Auditory,Raih IPK Tinggi,2,Siang
+MHS270,Christine White,Akuntansi,2019,3.05,Laptop,Auditory,Pahami Materi,5,Pagi
+MHS271,Jonathan Crawford,Manajemen,2020,3.58,Tablet,Auditory,Pahami Materi,1,Pagi
+MHS272,Audrey Williams,Sistem Informasi,2020,2.43,HP,Auditory,Raih IPK Tinggi,3,Pagi
+MHS273,Elizabeth Jackson,Sistem Informasi,2020,3.47,Tablet,Visual,Raih IPK Tinggi,5,Pagi
+MHS274,Andrew Powers,Teknik Elektro,2022,3.0,Tablet,Visual,Pahami Materi,4,Malam
+MHS275,Nicholas Cuevas,Sistem Informasi,2020,2.61,Tablet,Kinesthetic,Pahami Materi,3,Siang
+MHS276,Karl King,Informatika,2020,3.18,Laptop,Auditory,Raih IPK Tinggi,2,Siang
+MHS277,Christian Castro,Akuntansi,2019,3.08,Tablet,Kinesthetic,Lulus Cepat,5,Siang
+MHS278,Christian Anderson,Akuntansi,2022,2.76,HP,Kinesthetic,Pahami Materi,1,Malam
+MHS279,Toni Walter,Informatika,2022,3.03,HP,Visual,Lulus Cepat,4,Pagi
+MHS280,John Gonzalez,Teknik Elektro,2021,2.85,HP,Visual,Pahami Materi,5,Malam
+MHS281,Jackie Collins,Informatika,2023,3.05,HP,Visual,Pahami Materi,3,Pagi
+MHS282,Rebecca Martinez,Informatika,2022,3.26,Tablet,Visual,Pahami Materi,1,Malam
+MHS283,Alicia Reyes,Akuntansi,2022,3.63,HP,Kinesthetic,Pahami Materi,3,Siang
+MHS284,James Rodriguez,Manajemen,2019,2.5,HP,Auditory,Lulus Cepat,3,Siang
+MHS285,Mr. Gregory Howe II,Akuntansi,2020,3.85,Tablet,Kinesthetic,Raih IPK Tinggi,2,Siang
+MHS286,Dennis Robinson,Akuntansi,2022,2.22,Tablet,Kinesthetic,Raih IPK Tinggi,2,Siang
+MHS287,Kurt Pierce,Sistem Informasi,2022,2.94,Laptop,Visual,Lulus Cepat,3,Pagi
+MHS288,Kurt Cantu,Informatika,2023,3.24,Tablet,Auditory,Raih IPK Tinggi,4,Malam
+MHS289,Eduardo Goodwin,Akuntansi,2019,3.11,Tablet,Kinesthetic,Raih IPK Tinggi,2,Pagi
+MHS290,Justin Herring,Informatika,2023,2.75,Laptop,Visual,Raih IPK Tinggi,2,Malam
+MHS291,Eric Bonilla,Sistem Informasi,2022,2.92,Laptop,Visual,Raih IPK Tinggi,2,Siang
+MHS292,Katherine Malone,Informatika,2022,2.8,Tablet,Auditory,Raih IPK Tinggi,2,Siang
+MHS293,Patty Knight,Akuntansi,2019,2.76,Laptop,Kinesthetic,Pahami Materi,1,Siang
+MHS294,Daniel Travis,Informatika,2021,3.34,HP,Auditory,Lulus Cepat,3,Malam
+MHS295,John Parker,Sistem Informasi,2021,3.14,Tablet,Auditory,Raih IPK Tinggi,1,Siang
+MHS296,Jerry Guerra,Manajemen,2022,2.72,Laptop,Auditory,Raih IPK Tinggi,5,Pagi
+MHS297,Samuel Mendoza,Informatika,2022,3.36,Laptop,Kinesthetic,Raih IPK Tinggi,5,Pagi
+MHS298,Thomas Warner,Akuntansi,2023,3.12,Laptop,Visual,Pahami Materi,5,Pagi
+MHS299,Kathryn Vazquez,Sistem Informasi,2023,3.33,Laptop,Auditory,Raih IPK Tinggi,1,Malam
+MHS300,Shannon Reed,Akuntansi,2023,3.25,Tablet,Auditory,Raih IPK Tinggi,3,Pagi
